@@ -6,7 +6,7 @@ score = 0
 noTimes = 0
 # creating the screen
 screen = turtle.Screen()
-screen.title("snake by Julie")
+screen.title("snake by Juls")
 screen.bgcolor("green")
 screen.setup(width = 600, height=600)
 screen.tracer(0)
